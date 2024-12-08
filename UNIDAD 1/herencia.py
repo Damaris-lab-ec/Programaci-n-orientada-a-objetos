@@ -13,7 +13,7 @@ class Coche(Vehiculo):
 class Moto(Vehiculo):
     def hacer_wheelie(self):
         print("Haciendo un wheelie.")
-
+#la herencia, hereda metodos y atributos de la clase padre
 mi_coche = Coche("Mazda", "Serie 3")
 mi_moto = Moto("Harley Davidson", "Sportster")
 
