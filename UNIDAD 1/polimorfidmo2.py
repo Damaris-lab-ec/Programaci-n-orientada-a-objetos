@@ -19,3 +19,7 @@ semana = Semana()
 semana.ingresar_temperaturas()
 promedio = semana.calcular_promedio()
 print("El promedio semanal de temperaturas es:", promedio)
+
+
+#Polimorfismo: Si quisieras calcular el promedio de diferentes tipos de datos (no solo temperaturas), podrías utilizar polimorfismo para definir 
+#una función calcular_promedio que funcione con diferentes tipos de objetos.
