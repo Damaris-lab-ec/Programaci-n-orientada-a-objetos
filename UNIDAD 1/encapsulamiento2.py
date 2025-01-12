@@ -21,3 +21,4 @@ print(mi_cuenta.obtener_saldo())
 
 mi_cuenta.retirar(10)
 print(mi_cuenta.obtener_saldo())
+#Encapsulación: La clase Semana encapsula los datos (temperaturas) y los métodos (ingresar y calcular) en una única entidad.
