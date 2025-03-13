@@ -1,5 +1,5 @@
 import json
-
+#Se obtiene clase producto id_producto, nombre, cantidad y precio
 class Producto:
     def __init__(self, id, nombre, cantidad, precio):
         self.id = id
